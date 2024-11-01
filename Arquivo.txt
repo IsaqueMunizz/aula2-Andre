@@ -1,3 +1,5 @@
+>>>>>>>>>HEAD
 Primeiro commit
-
+========
 Commit feito na master
+>>>>>>>>>MASTER
